@@ -2,7 +2,7 @@
 This is a simple to-do-list webpage
 
 ## Website Link-
- <a href="https://avinash201199.github.io/To-Do-List/">To-Do-List</a>
+ <a href="https://github.com/2003Musk/To-do-list">To-Do-List</a>
 
  ## Table of Contents-
 - [Logo](#logo)
